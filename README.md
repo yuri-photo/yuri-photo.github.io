@@ -1,1 +1,0 @@
-"# yuri-photo.github.io" 
